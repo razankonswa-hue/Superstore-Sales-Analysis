@@ -43,6 +43,9 @@ This project analyzes the Superstore dataset using Excel, SQL Server, and Power 
  - Review shipping costs.
  - focuse on high-profit product categories
 
+ ## Note
+The Power BI (.pbix) and Excel (.xlsx) files can be downloaded from this repository and opened using Microsoft Power BI Desktop and Microsoft Excel.
+
  ## Project Files
  📄 Superstore_Cleaned.xlsx
  🗄️ Superstore_Queries.sql
